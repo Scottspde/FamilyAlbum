@@ -1,24 +1,7 @@
-# README
+# Family Photo and video application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Outline
+Web application using ruby on rails for hosting and digitizing all the family photos that are currently in hard copy. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Design
+Landing page with tiles with each family name. Within each tile will be a list the groups photos by decade. 
